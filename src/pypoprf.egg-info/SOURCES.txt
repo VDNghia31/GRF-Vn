@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/pypoprf/__init__.py
+src/pypoprf.egg-info/PKG-INFO
+src/pypoprf.egg-info/SOURCES.txt
+src/pypoprf.egg-info/dependency_links.txt
+src/pypoprf.egg-info/entry_points.txt
+src/pypoprf.egg-info/requires.txt
+src/pypoprf.egg-info/top_level.txt
